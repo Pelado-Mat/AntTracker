@@ -30,7 +30,7 @@ Forked from [zs6buj Ant Tracker](https://github.com/zs6buj/AntTracker) to do a m
  * CleanUp: Remove STM code, this will be an esp32 only project
  * Document HW wiring and working components
  * Add Tracker batery voltage sensors.
-   Voltage Divider: R1: 10k R2: 2.2k for a 4s setup
+   Voltage Divider: R1: 600k R2: 100k for a 5s setup
  * Test BoxGPS Support
  * Test QMC5883L Compass support
  * Fix: HMC588L compass support
