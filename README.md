@@ -4,7 +4,14 @@ Supports Mavlink 1 & 2, CRSF, and GPS
 
 
 Forked from [zs6buj Ant Tracker](https://github.com/zs6buj/AntTracker) to do a major clean up.
-## How to build
+## Tested HW
+ * ESP32 dev board - [Aliexpress](https://es.aliexpress.com/item/1005008232257795.html)
+ * Mateksys Servo PDB - [Aliexpress](https://www.aliexpress.com/item/1005005020804815.html)
+ * OLED SSD1306 I2C 0,96inch - [Aliexpress](https://www.aliexpress.com/item/1005007389730469.html)
+ * CYCLONE M10 GPS Module + compass M1018C - [Aliexpress](https://www.aliexpress.com/item/1005007507570270.html)
+ * MGR MG996 180 All metal servo - [Aliexpress](https://www.aliexpress.com/item/1005007596671764.html)
+   
+## How to build the SW
  0. Install [Platformio](https://platformio.org/install) 
  1. Check config.h and edit the options.
     Double check the pin definitions!
