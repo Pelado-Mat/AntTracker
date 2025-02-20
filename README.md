@@ -6,11 +6,11 @@ Supports Mavlink 1 & 2, Frsky D legacy, X S.Port and Passthru, CRSF, LTM, and GP
 Forked from https://github.com/zs6buj/AntTracker to do a major clean up.
 
 ## CleanUp TODO
- * Add proper header files to the code files under libs
+ * Add proper header files to the code files under /include
  * Remove STM code
 
 ## Developed for 
  * ESP32 Dev Kit
  * ELRS ESP_NOW Telemetry
- * Sentinel ATT HD Hardware
+ * (Sentinel ATT lite HD Case and Hardware)[https://github.com/aat-sentinel/AAT-lite-HD-case]
 
