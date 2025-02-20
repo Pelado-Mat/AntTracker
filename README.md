@@ -18,12 +18,17 @@ Forked from [zs6buj Ant Tracker](https://github.com/zs6buj/AntTracker) to do a m
  * [Sentinel ATT lite HD Case and Hardware](https://github.com/aat-sentinel/AAT-lite-HD-case)
 
 
-# TODO
+## TODO
  * CleanUp: Add proper header files to the code files under include/
  * CleanUp: Remove STM code, this will be an esp32 only project
+ * Document HW wiring and working components
+ * Add/Fix: Baterry voltage sensors. ina219 or a voltage divider?
  * Test BoxGPS Support
  * Test QMC5883L Compass support
  * Fix: HMC588L compass support
- * Add/Fix: Baterry voltage sensors
 
+## Ideas
+ * move to a runtime configuration
+ * Add a web interface for configuration
+ 
 
