@@ -38,5 +38,6 @@ Forked from [zs6buj Ant Tracker](https://github.com/zs6buj/AntTracker) to do a m
 ## Ideas
  * move to a runtime configuration
  * Add a web interface for configuration
+ * Add a Gyro ?
  
 
